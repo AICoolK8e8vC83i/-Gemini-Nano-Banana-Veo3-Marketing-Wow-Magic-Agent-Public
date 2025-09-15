@@ -1,0 +1,2 @@
+file '/Users/kc/AI_Virtual_Ad_And_Marketing_Creator/app/demo/outputs/final_ad_v1.mp4'
+file '/Users/kc/AI_Virtual_Ad_And_Marketing_Creator/app/demo/outputs/final_ad_v2.mp4'
